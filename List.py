@@ -1,5 +1,6 @@
 '''List
 List is used to store multiple values.
+These can be of any type
 List items are ordered, mutable and allow duplicates
 operatons in List are append, clear, copy, count, extend, index, insert, pop, remove, reverse, sort, min, max,etc..,'''
 
